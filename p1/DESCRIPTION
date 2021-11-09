@@ -1,0 +1,11 @@
+Package: PHMaddins
+Type: Package
+Title: Power Alstom PHM Operations
+Version: 0.0.1
+Authors: PHM Team
+Description: A set of addins to simplify PHM operations
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports: miniUI,
+    shiny (>= 1.0.0)
